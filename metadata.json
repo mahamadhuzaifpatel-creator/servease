@@ -1,0 +1,6 @@
+{
+  "name": "ServEase",
+  "description": "Simplifying Service Business Management — All-in-one digital business management platform for independent local service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
